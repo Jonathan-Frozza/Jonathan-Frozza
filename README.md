@@ -6,7 +6,7 @@ Desenvolvedor Full Stack Júnior, com experiência em Python, Java e React, dese
 
 ### Detalhes
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Frozza&show_icons=true&theme=dark)
+![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Frozza&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ### Projetos
 
